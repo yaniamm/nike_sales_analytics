@@ -113,7 +113,8 @@
 
 Далее проанализируем в каком регионе этот продукт наиболее популярен
 
-![image](https://github.com/user-attachments/assets/4cc9a9eb-9ed5-40aa-bead-d8009930da61)
+![image](https://github.com/user-attachments/assets/d2fb12d1-2679-4f84-a6dd-3b21c714e758)
+
 
 
 По графику заметно, что в регионе West самый продаваемый продукт пользуется наибольшим спросом
